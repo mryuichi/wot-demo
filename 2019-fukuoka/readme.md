@@ -1,7 +1,7 @@
 ## Demonstrations in Fukuoka/TPAC 2019
 
 The demonstrations were compiled to 4 videos due to the limit of their file sizes.
-Some other scenarios had been tried to show there, but I coundn't record them.
+Some other scenarios had been available to show there, but I coundn't record them.
 
 ### Home scenario
 
